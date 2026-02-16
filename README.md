@@ -61,14 +61,16 @@ ETL Pipeline Development
 Data Modeling
 
 Data Analytics
+## 🛠️ Tools & Resources
 
-🛠️ Tools & Resources
-Tool	Purpose
-SQL Server Express	Database engine
-SQL Server Management Studio (SSMS)	Database management
-Git & GitHub	Version control
-Draw.io	Data modeling & architecture diagrams
-Notion	Project management & documentation
+| Tool | Purpose |
+|------|----------|
+| SQL Server Express | Database engine |
+| SQL Server Management Studio (SSMS) | Database management |
+| Git & GitHub | Version control |
+| Draw.io | Data modeling & architecture diagrams |
+| Notion | Project management & documentation |
+
 📂 Dataset
 
 Source: ERP & CRM systems (CSV files)
